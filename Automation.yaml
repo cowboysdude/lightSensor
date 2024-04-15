@@ -1,0 +1,23 @@
+- alias: 80 - Turn on Cupboard Lights
+  id: Turn on lights
+  trigger:
+    - platform: numeric_state
+      entity_id: sensor.lr_window_light_level
+      below: 400
+  action:
+    - service: switch.turn_on
+      entity_id: switch.inside_cupboard_lights
+    - service: switch.turn_on
+      entity_id: switch.counter_lights
+
+- alias: 81 - Turn off Cupboard Lights
+  id: Turn off Cupboard Lights
+  trigger:
+    - platform: numeric_state
+      entity_id: sensor.lr_window_light_level
+      above: 600
+  action:
+    - service: switch.turn_off
+      entity_id: switch.inside_cupboard_lights
+    - service: switch.turn_off
+      entity_id: switch.counter_lights
