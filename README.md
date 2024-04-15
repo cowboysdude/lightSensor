@@ -3,7 +3,7 @@ Create an ESPHOME Light level sensor
 
 
 First off this isn't created it's a modified design that ResinChemTech made which is an all purpose excellent sensor... I only needed the light level part of the entire sensor so I modified it and here it is....
-This was modified from https://resinchemtech.blogspot.com/2022/10/a-new-multisensor.html
+This was modified from [ResinChemTech]([https://www.google.com](https://resinchemtech.blogspot.com/2022/10/a-new-multisensor.html))
 Thank you for all your excellent work!!
 
 I needed a simple light level sensor for some automations...  Yes you could use the sun but for instance if it's a poor weather day and you need lights on?  Why not use a light level sensor so no  matter
