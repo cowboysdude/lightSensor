@@ -23,6 +23,9 @@ I use these:
 
 ![image](https://github.com/cowboysdude/lightSensor/assets/11013648/b4d7e4eb-787b-429b-a8c0-c45e40cc3e64)
 
+## The Code
+Included are the STL for the case and the bin file to use in ESPHome [which you can modify for your needs!] as well as an automation example...
+
 Both you can get just about anywhere.....Amazon, Aliexpress....etc... 
 This is very simple and easy!!  
 
