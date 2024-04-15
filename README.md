@@ -26,8 +26,7 @@ I use these:
 ## The Code
 Included are the STL for the case and the bin file to use in ESPHome [which you can modify for your needs!] as well as an automation example...
 
-Both you can get just about anywhere.....Amazon, Aliexpress....etc... 
-This is very simple and easy!!  
+The hardware you can get on Amazon, Aliexpress or just about anywhere they are both inexpensive and easy to get!
 
 Create your sensor inside of ESPHome.... using the included bin file... you can modify it as you wish to suit your needs!!
 
