@@ -30,3 +30,7 @@ The hardware you can get on Amazon, Aliexpress or just about anywhere they are b
 
 Create your sensor inside of ESPHome.... using the included bin file... you can modify it as you wish to suit your needs!!
 
+## These are the readings that this sensor provides:
+
+![image](https://github.com/cowboysdude/lightSensor/assets/11013648/d313ca80-b468-4083-8482-378c188e299a)
+
