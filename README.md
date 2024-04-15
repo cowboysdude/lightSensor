@@ -7,7 +7,7 @@ This was modified from [ResinChemTech](https://resinchemtech.blogspot.com/2022/1
 Thank you for all your excellent work!!
 
 I needed a simple light level sensor for some automations...  Yes you could use the sun but for instance if it's a poor weather day and you need lights on?  Why not use a light level sensor so no  matter
-what time of day or night it is you can call you lights!!
+what time of day or night if it's dark you can have lights, isn't that the idea of an 'automation' LOL !!
 
 So what's here?
 The STL for the case
