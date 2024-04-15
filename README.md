@@ -32,5 +32,6 @@ Create your sensor inside of ESPHome.... using the included bin file... you can 
 
 ## These are the readings that this sensor provides:
 
-![image](https://github.com/cowboysdude/lightSensor/assets/11013648/d313ca80-b468-4083-8482-378c188e299a)
+![image](https://github.com/cowboysdude/lightSensor/assets/11013648/3730ccd4-2184-4cb6-ba38-b7c41b0ba39e)
+
 
