@@ -16,10 +16,10 @@ and bin file to burn to your D1 Mini
 
 I use these:
 
-D1 Mini
+## The D1 Mini
 ![image](https://github.com/cowboysdude/lightSensor/assets/11013648/1b198217-224c-4b8b-8380-e7a3a60139e2)
 
-and light sensor [adjustable]
+## Ajustable light sensor
 
 ![image](https://github.com/cowboysdude/lightSensor/assets/11013648/b4d7e4eb-787b-429b-a8c0-c45e40cc3e64)
 
